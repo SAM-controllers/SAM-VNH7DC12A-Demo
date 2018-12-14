@@ -1,6 +1,6 @@
 /*
  *    www.SAMcontrollers.com
- *      DC motor driver DEMO02 project - SAM-VNH7DC12A  https://samcontrollers.com/product/dc-12a-h-bridge-driver-board/
+ *      DC motor driver DEMO03 project - SAM-VNH7DC12A  https://samcontrollers.com/product/dc-12a-h-bridge-driver-board/
  *      Control two LED Green and Orange showing polarity direction PWM change brightness by variable pot
  *      Or control DC motor connected to A and B outputs of SAM-VNH7DC12A
  *      Use heatsink for higher current loads to prevent damage / overheating
